@@ -13,4 +13,4 @@ This project provides authentication features using Django REST Framework and Dj
 ### Required Packages
 
 ```bash
-pip install djangorestframework djoser django-cors-headers django-allauth dj-rest-auth social-auth-app-django
+pip install djangorestframework djoser django-cors-headers django-allauth dj-rest-auth social-auth-app-django djangorestframework-simplejwt  psycopg2 psycopg2-binary 
