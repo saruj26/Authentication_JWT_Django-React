@@ -2,6 +2,9 @@
 
 This project provides authentication features using Django REST Framework and Djoser on the backend and React on the frontend. It includes:
 
+- ✅ Email verification
+- ✅ Password reset
+- ✅ Google login (OAuth)
 
 ---
 
